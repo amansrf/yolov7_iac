@@ -1,0 +1,3 @@
+./images/val/Image_0000001997_2215_521343800.jpg
+./images/val/Image_0000001998_2215_571903800.jpg
+./images/val/Image_0000001999_2215_622463800.jpg
